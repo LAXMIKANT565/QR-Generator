@@ -68,19 +68,6 @@ Welcome to the QR Code Generator project! This application allows users to effor
 
 ---
 
-## 🚀 How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/VirendraT11/qr-code-generator.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd qr-code-generator
-   ```
-3. **Open `index.html` in your favorite browser.**
-
----
 
 ## 🎉 Conclusion
 
@@ -92,7 +79,7 @@ Feel free to explore, fork, and contribute to make it even better! 🚀
 
 **Let's connect:**
 
-- **GitHub:** [Virendra's GitHub Profile](https://github.com/VirendraT11)
-- **LinkedIn:** [Virendra's LinkedIn Profile](https://www.linkedin.com/in/virendra-tambavekar-74a384257/)
+- **GitHub:** [Laxmikant's GitHub Profile](https://github.com/LAXMIKANT565)
+- **LinkedIn:** [Laxmikant's LinkedIn Profile](https://www.linkedin.com/in/laxmikant-kadam-368308257/)
 
 Happy Coding! 😊
